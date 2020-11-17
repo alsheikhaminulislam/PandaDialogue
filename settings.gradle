@@ -1,0 +1,3 @@
+include ':PandaDialogue'
+include ':app'
+rootProject.name = "Dialogue"
